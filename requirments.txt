@@ -1,0 +1,17 @@
+python=3.9
+tensorflow
+regex
+requests
+tqdm
+numpy
+toposort
+gpt-2-simple
+torch
+scipy
+librosa
+tensorboard
+soundfile
+matplotlib
+inflect
+pillow
+Unidecode
